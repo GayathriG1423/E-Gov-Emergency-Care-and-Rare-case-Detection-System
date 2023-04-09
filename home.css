@@ -1,0 +1,105 @@
+
+.div-1
+{
+  background-color:#007057;
+  width: 100%;
+  height:  150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color:white;
+  font-size: 50px;
+}
+.container {
+    display: flex;
+    align-items: center;
+  width: 500px;
+   }
+
+.container img
+{
+    height: 250px;
+    width: 500px;
+    padding-top:40px;
+    padding-right: 20px ;
+}
+.navbar-nav {
+
+  margin-left: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.color{
+
+  font-family: Verdana, sans-serif;
+}
+
+.About{
+  margin-top: 75px;
+  margin-bottom: 75px;
+}
+
+
+
+.catalouges
+{
+  width: 100%;
+  max-width: 960px;
+  margin: 100px auto;
+}
+
+
+.contact-me
+{
+    background-color:#007057;
+    width: 100%;
+    height:  200px;
+}
+
+/* .bottom2-container
+{
+  background-color: #8946A6;
+  padding:50px 0 20px;
+} */
+
+.contact-Message
+{
+  width: 40%;
+  margin-top: 20px;
+  margin-left: 400px;
+}
+
+.contact
+{
+  color: #6bc764;
+  width:1200px;
+  padding-top: 10px;
+  padding-left: 250px;
+  padding-right: 100px;
+  padding-bottom: 10px;
+}
+
+a.contact
+{
+  margin-left: auto;
+}
+.contact:hover {
+  color: #6bc764;
+}
+
+.button {
+  background-color: #6bc764;
+  font-family:  sans-serif;
+  color: #ffffff;
+  font-size: 16px;
+  text-decoration: none;
+
+}
+.button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
